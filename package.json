@@ -1,0 +1,12 @@
+{
+  "name": "csv-to-json-converter",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "start": "node script.mjs"
+  },
+  "dependencies": {
+    "csvtojson": "^2.0.10",
+    "node-fetch": "^3.0.0"
+  }
+}
